@@ -1,6 +1,6 @@
 ## IA Map inteligente de Rotas 
 
-Este projeto tem como objetivo otimizar rotas de entrega para a empresa fictícia **Sabor Express**, utilizando **Inteligência Artificial** e **modelagem de grafos** para reduzir tempo de entrega, minimizar custos e melhorar a eficiência operacional.
+Este projeto tem como objetivo otimizar rotas de entrega para a empresa fictícia **Sabor Express**, utilizando **Inteligência Artificial** e **modelagem de grafos** para reduzir tempo de entrega, minimizar custos e melhorar a eficiência operacional. 
 
 ---
 
