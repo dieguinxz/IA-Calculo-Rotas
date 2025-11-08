@@ -74,4 +74,5 @@ A rota abaixo mostra o fluxo do trajeto gerado pelo algoritmo **A\***:
 
  ```
    <img width="1171" height="425" alt="mapa vscode" src="https://github.com/user-attachments/assets/ea62ca93-8467-4158-97bc-0e97ab3096c0" />
+<img width="1530" height="647" alt="mapa google" src="https://github.com/user-attachments/assets/6d144774-67fe-4f9d-a8a8-31d24fac7f14" />
 
